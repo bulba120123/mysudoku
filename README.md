@@ -1,6 +1,9 @@
 # sudoku
 
-A new Flutter project.
+Flutter로 만든 개인용 스도쿠 앱입니다.
+
+다른 컴퓨터나 새 Codex 채팅에서 개발을 이어가려면
+[PROJECT_HANDOFF.md](PROJECT_HANDOFF.md)를 먼저 확인하세요.
 
 ## Getting Started
 
