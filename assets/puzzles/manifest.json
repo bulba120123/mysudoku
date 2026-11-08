@@ -1,0 +1,20 @@
+{
+  "source": "Sudoku Exchange Puzzle Bank",
+  "repository": "https://github.com/grantm/sudoku-exchange-puzzle-bank",
+  "license": "Public Domain",
+  "generatedAt": "2026-11-08T09:09:03.925801Z",
+  "counts": {
+    "beginner": 2000,
+    "easy": 2000,
+    "medium": 2000,
+    "hard": 2000,
+    "expert": 1530,
+    "master": 470
+  },
+  "derivedLevels": {
+    "beginner": "Original easy puzzles with added clues; solvable by naked singles.",
+    "easy": "Original easy puzzles with added clues; solvable by naked and hidden singles.",
+    "expert": "Original diabolical puzzles rated 5.0 through 7.4.",
+    "master": "Original diabolical puzzles rated above 7.4."
+  }
+}
